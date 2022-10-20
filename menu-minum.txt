@@ -3,4 +3,9 @@
   * santen
   * cendol
   * es
+   ^ buat sendiri
+   ^ beli 
  - es dawet
+ - es sirup
+  * jeruk
+  * strawberry
