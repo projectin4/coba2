@@ -1,6 +1,8 @@
 menu makan hari ini 
 - bakso
 - soto
+  * bawang goreng
+  * ayam goreng
 - rawon
 - ayam peyet
 - lele penyet
